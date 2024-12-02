@@ -1,0 +1,33 @@
+color ✔
+font-size ✔
+list-style-type ✔
+font-weight ✔
+text-decoration ✔
+background-color ✔
+padding ✔
+margin ✔
+width  ✔
+height ✔ 
+border ✔
+
+
+element (exemple: p) ✔ 
+element,element (exemple: p, li) ✔
+.classe (exemple: .especial) ✔
+element.classe (exemple: li.especial) ✔
+element element (exemple: li em) ✔
+element + element (exemple: h1 + p) ✔
+
+
+Fulls d'estil externs ✔
+Fulls d'estil interns ✔
+Estils en línia ✔ 
+
+
+Un títol principal ✔ 
+Títols secundaris ✔ 
+Paràgrafs. ✔ 
+Imatges ✔ 
+Una llista no ordenada amb els ingredients ✔ 
+Una llista ordenada amb les passes a seguir per a la seva elaboració ✔ 
+Enllaços a fragments (ingredients i passes) ✔ 

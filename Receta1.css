@@ -1,0 +1,38 @@
+.titulo {
+    padding: 50px 25px 25px 50px;
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+
+h5, .titulo, h3 {
+    background-color: antiquewhite;
+}
+
+ul {
+    list-style-type: square;
+    margin: 20px;
+}
+
+ol li {
+    margin: 20px;
+}
+h3 + p {
+    font-weight: bold;
+    text-decoration: double;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+footer {
+    background-color: gray;
+}
+
+h5.tamanyo {
+    font-size: 14px;
+    background-color: antiquewhite;
+}
